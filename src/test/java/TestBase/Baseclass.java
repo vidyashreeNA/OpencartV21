@@ -76,9 +76,9 @@ public class Baseclass {
 			return (generatedString+"#"+generatedNumber);
 		}
 		
-		public String captureScreen(String tname) throws IOException
+		public String captureScreen(String tname) throws IOException// this will take name as parameter
 		{
-			String timeStamp=new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+			String timeStamp=new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());//to save the ss in timestamp
 			
 			TakesScreenshot takesScreenshot=(TakesScreenshot)driver;
 			File sourceFile=takesScreenshot.getScreenshotAs(OutputType.FILE);

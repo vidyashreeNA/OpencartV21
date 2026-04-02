@@ -35,3 +35,10 @@
 13:14:18.107 [main] INFO  testCases.TC003_Logindatadriven - *** TC003 finished ****
 13:14:18.214 [main] INFO  testCases.TC003_Logindatadriven - *** TC003 started ****
 13:14:20.171 [main] INFO  testCases.TC003_Logindatadriven - *** TC003 finished ****
+05:22:57.103 [main] INFO  testCases.TC004_Search - *** TC004 started ****
+05:24:12.979 [main] INFO  testCases.TC004_Search - *** TC004 started ****
+05:40:44.450 [main] INFO  testCases.TC004_Search - *** TC004 started ****
+05:40:45.461 [main] ERROR testCases.TC004_Search - Test failed..
+05:40:45.461 [main] DEBUG testCases.TC004_Search - Debug logs..
+05:43:01.644 [main] INFO  testCases.TC004_Search - *** TC004 started ****
+05:43:02.313 [main] ERROR testCases.TC004_Search - Test failed..
